@@ -1,0 +1,17 @@
+{
+    "name": "zahra/libhallo",
+    "description": "pembuatan library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "2211081010",
+            "email": "hafifahazzahra520@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"zahra\\libhallo\\" : "src/"}
+    },
+    "require": {}
+}
